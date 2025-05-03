@@ -1,4 +1,4 @@
-module github.com/gjbae1212/go-ws-broadcast
+module github.com/cn1095/go-ws-broadcast
 
 go 1.14
 
